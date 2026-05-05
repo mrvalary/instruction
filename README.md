@@ -197,3 +197,7 @@ git add feature.txt
 git commit -m "Добавлена новая функция"
 git switch main
 git merge develop
+
+---
+
+## Работа с удалённым репозиторием
